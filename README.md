@@ -12,7 +12,7 @@ My favourite books of 2021
 9. The Lady Tasting Tea (David Salsburg)
 10. A Programmer’s Introduction to Mathematics (Jeremy Kun)
 
-### Fun to read
+#### Good read
 1. Hidden Champions of the Twenty-First Century (Hermann Simon)
 2. "Surely You're Joking, Mr. Feynman!" (Richard P. Feynman)
 3. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
