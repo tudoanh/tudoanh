@@ -11,6 +11,7 @@ My favourite books of 2021
 8. Elements (Euclid)
 9. The Lady Tasting Tea (David Salsburg)
 10. A Programmer’s Introduction to Mathematics (Jeremy Kun)
+11. R for Data Science
 
 #### Good read
 1. Hidden Champions of the Twenty-First Century (Hermann Simon)
