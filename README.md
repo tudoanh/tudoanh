@@ -33,6 +33,7 @@ My favourite books of 2021
 2. Secrets of Power Negotiating (Roger Dawson)
 3. How to Live on 24 Hours a Day (Arnold Bennett)
 4. The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness (John Yates)
+5. A Guide to the Good Life: The Ancient Art of Stoic Joy (William B. Irvine)
 
 #### Good read
 1. Hidden Champions of the Twenty-First Century (Hermann Simon) :vn:
