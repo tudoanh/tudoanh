@@ -1,6 +1,6 @@
 My favourite books of 2021
 
-(The one has :vietnam: icon also has Vietnamese translation, but I suggest for technical book you should read along with English version because the mistranslations)
+(The one with icon :vietnam: also has Vietnamese translation, but you should read along with the English version because of the mistranslations)
 
 #### Statistics & Math
 1. Incerto by Nassim Nicholas Taleb (Black Swan, Antifragile, Fooled by Randomness, Skin in the Game) :vietnam: -> *After those books, a lot of other seem like just a fraction of them)*
