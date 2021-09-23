@@ -4,7 +4,7 @@ My favourite books of 2021
 
 #### Statistics & Math
 1. Incerto by Nassim Nicholas Taleb (Black Swan, Antifragile, Fooled by Randomness, Skin in the Game) :vietnam: -> *After those books, a lot of other seem like just a fraction of them)*
-2. The Signal and the Noise (Nate Silver) :vietnam: -> *Author of FiveThirtyEight*
+2. The Signal and the Noise (Nate Silver) :vietnam: -> *Author of FiveThirtyEight. Same opinion about uncertainty & fat tail, like Taleb & Tetlock*
 3. Statistical Rethinking (Richard McElreath) -> *Best book of the year. Enlighten me so much*
 4. How Not to Be Wrong (Jordan Ellenberg) :vietnam: -> *Read this before Statistical Rethinking*
 5. How to Prove it (Daniel J. Velleman) -> *Learn this first on the Math journey*
