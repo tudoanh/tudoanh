@@ -9,3 +9,8 @@
 
 1. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 2. [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+
+
+# Archives:
+
+[My favourite books of 2021](https://github.com/tudoanh/tudoanh/blob/0747ce23f18f41be96442c5751fd2f116e4678f0/README.md)
