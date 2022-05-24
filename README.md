@@ -1,4 +1,4 @@
-# 🗻 Learning Journal of 2022
+# Learning Journal of 2022
 
 ### Math
 
@@ -12,11 +12,11 @@
 3. [Deep Learning Interview](https://arxiv.org/abs/2201.00650)
 4. [Handbook for CTFers](https://books.google.com.vn/books/about/Handbook_for_CTFers.html?id=2YrhzgEACAAJ&source=kp_book_description&redir_esc=y)
 
-# 🚈 Archives:
+### Archives:
 
 [My favourite books of 2021](https://github.com/tudoanh/tudoanh/blob/0747ce23f18f41be96442c5751fd2f116e4678f0/README.md)
 
-# 🧵 Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Trick for Python dev](https://doanhtu.com/article/trick-for-python-dev/)
 - [Awesome Machine Learning Resource](https://doanhtu.com/article/awesome-machine-learning-resource/)
