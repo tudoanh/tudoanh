@@ -18,4 +18,9 @@
 
 # 🧵 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trick for Python dev](https://doanhtu.com/article/trick-for-python-dev/)
+- [Awesome Machine Learning Resource](https://doanhtu.com/article/awesome-machine-learning-resource/)
+- [What is mask attention?](https://doanhtu.com/article/what-is-mask-attention/)
+- [Kaggle Bird Classification with sound](https://doanhtu.com/article/kaggle-bird-classification-with-sound/)
+- [Overcome the fear](https://doanhtu.com/article/overcome-the-fear/)
 <!-- BLOG-POST-LIST:END -->
