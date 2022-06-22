@@ -18,9 +18,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Contabo server review](https://doanhtu.com/article/contabo-server-review/)
 - [Move Docker volumes to other server](https://doanhtu.com/article/move-docker-volumes-to-other-server/)
 - [Trick for Python dev](https://doanhtu.com/article/trick-for-python-dev/)
 - [Awesome Machine Learning Resource](https://doanhtu.com/article/awesome-machine-learning-resource/)
 - [What is mask attention?](https://doanhtu.com/article/what-is-mask-attention/)
-- [Kaggle Bird Classification with sound](https://doanhtu.com/article/kaggle-bird-classification-with-sound/)
 <!-- BLOG-POST-LIST:END -->
