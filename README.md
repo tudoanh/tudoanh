@@ -24,3 +24,12 @@
 - [Move Docker volumes to other server](https://doanhtu.com/article/move-docker-volumes-to-other-server/)
 - [Trick for Python dev](https://doanhtu.com/article/trick-for-python-dev/)
 <!-- BLOG-POST-LIST:END -->
+
+
+### Looking for remote jobs
+
+I'm currently open for remote Python/Django developer positions.
+
+My resume: https://bit.ly/doanhtu
+
+Contact me at tu0703 @ gmail . com  (remove spaces)
