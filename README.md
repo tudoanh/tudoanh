@@ -18,11 +18,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy &quot;The Lounge&quot; on Fly.io](https://doanhtu.com/article/deploy-the-lounge-on-flyio/)
 - [Fly.io - perfect solution](https://doanhtu.com/article/flyio-perfect-solution/)
 - [Django Signal + Celery](https://doanhtu.com/article/django-signal-celery/)
 - [Suy ngẫm về sự Ngẫu nhiên](https://doanhtu.com/article/suy-ngam-ve-su-ngau-nhien/)
 - [Contabo server review](https://doanhtu.com/article/contabo-server-review/)
-- [Move Docker volumes to other server](https://doanhtu.com/article/move-docker-volumes-to-other-server/)
 <!-- BLOG-POST-LIST:END -->
 
 
