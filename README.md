@@ -24,12 +24,3 @@
 - [Suy ngẫm về sự Ngẫu nhiên](https://doanhtu.com/article/suy-ngam-ve-su-ngau-nhien/)
 - [Contabo server review](https://doanhtu.com/article/contabo-server-review/)
 <!-- BLOG-POST-LIST:END -->
-
-
-### Looking for remote jobs
-
-I'm currently open for remote Python/Django developer positions.
-
-My resume: https://bit.ly/doanhtu
-
-Contact me at tu0703 @ gmail . com  (remove spaces)
