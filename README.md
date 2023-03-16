@@ -18,9 +18,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Freeup your diskspace with &quot;dua&quot;](https://doanhtu.com/article/freeup-your-diskspace-with-dua/)
+- [Pywright - Render javascript websites](https://doanhtu.com/article/pywright-render-javascript-websites/)
 - [Deploy &quot;The Lounge&quot; on Fly.io](https://doanhtu.com/article/deploy-the-lounge-on-flyio/)
 - [Fly.io - perfect solution](https://doanhtu.com/article/flyio-perfect-solution/)
 - [Django Signal + Celery](https://doanhtu.com/article/django-signal-celery/)
-- [Suy ngẫm về sự Ngẫu nhiên](https://doanhtu.com/article/suy-ngam-ve-su-ngau-nhien/)
-- [Contabo server review](https://doanhtu.com/article/contabo-server-review/)
 <!-- BLOG-POST-LIST:END -->
