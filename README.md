@@ -18,9 +18,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Làm thế nào để giải quyết vấn đề?](https://doanhtu.com/article/lam-the-nao-de-giai-quyet-van-de/)
 - [Freeup your diskspace with &quot;dua&quot;](https://doanhtu.com/article/freeup-your-diskspace-with-dua/)
 - [Pywright - Render javascript websites](https://doanhtu.com/article/pywright-render-javascript-websites/)
 - [Deploy &quot;The Lounge&quot; on Fly.io](https://doanhtu.com/article/deploy-the-lounge-on-flyio/)
 - [Fly.io - perfect solution](https://doanhtu.com/article/flyio-perfect-solution/)
-- [Django Signal + Celery](https://doanhtu.com/article/django-signal-celery/)
 <!-- BLOG-POST-LIST:END -->
