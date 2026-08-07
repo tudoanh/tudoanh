@@ -1,22 +1,21 @@
-# Learning Journal of 2022
+# Đỗ Anh Tú
 
-### Math
+**Senior Python / AI Systems Engineer** — LLM agents · RAG · production AI workflows on Django/FastAPI
 
-1. [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) ([Youtube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) + Book) (Complete >= 70% homeworks)
-2. [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) (Youtube & Port >= 80% to Julia)
+10+ years of production Python; the last 3 deep in autonomous multi-agent systems — coding agents that triage bugs, fix them, write tests, and open PRs while engineers only review.
 
-### Books
+📄 **[Résumé / CV](./CV.md)**  ·  💼 [LinkedIn](https://linkedin.com/in/doanhtu)  ·  ✉️ tudoanh.fl@gmail.com  ·  📞 +84 394 970 010  ·  🌐 [doanhtu.com](https://doanhtu.com)
 
-1. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
-2. [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
-3. [Deep Learning Interview](https://arxiv.org/abs/2201.00650)
-4. [Handbook for CTFers](https://books.google.com.vn/books/about/Handbook_for_CTFers.html?id=2YrhzgEACAAJ&source=kp_book_description&redir_esc=y)
+---
 
-### Archives:
+### Selected work
 
-[My favourite books of 2021](https://github.com/tudoanh/tudoanh/blob/0747ce23f18f41be96442c5751fd2f116e4678f0/README.md)
+- **[thueai.com](https://thueai.com)** — Django/Wagtail platform with an autonomous research-to-publish content pipeline (multi-step LLM agents, daily on live infra).
+- **[subly.xyz](https://subly.xyz)** — AI media & document translator (video / audio / image / docs) with context-aware translation.
+- **[rankclaw.com](https://rankclaw.com)** — free AI-powered security-skills audit platform.
 
-### Blog posts
+### Latest writing — from [doanhtu.com](https://doanhtu.com)
+
 <!-- BLOG-POST-LIST:START -->
 - [Backup Sqlite3 with Litestream - Tutorial](https://doanhtu.com/article/backup-sqlite3-with-litestream-tutorial/)
 - [How to choose a good CPU?](https://doanhtu.com/article/how-to-choose-a-good-cpu/)
@@ -24,3 +23,7 @@
 - [Freeup your diskspace with &quot;dua&quot;](https://doanhtu.com/article/freeup-your-diskspace-with-dua/)
 - [Pywright - Render javascript websites](https://doanhtu.com/article/pywright-render-javascript-websites/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<sub>Archive · [Learning Journal 2022](./learning-journal-2022.md)</sub>
