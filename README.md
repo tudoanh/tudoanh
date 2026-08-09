@@ -21,7 +21,7 @@
 - [How to choose a good CPU?](https://doanhtu.com/article/how-to-choose-a-good-cpu/)
 - [Làm thế nào để giải quyết vấn đề?](https://doanhtu.com/article/lam-the-nao-de-giai-quyet-van-de/)
 - [Freeup your diskspace with &quot;dua&quot;](https://doanhtu.com/article/freeup-your-diskspace-with-dua/)
-- [Pywright - Render javascript websites](https://doanhtu.com/article/pywright-render-javascript-websites/)
+- [Hứa Nhất Thành](https://doanhtu.com/article/hua-nhat-thanh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
